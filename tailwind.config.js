@@ -14,6 +14,7 @@ module.exports = {
       },
       colors: {
         main: "hsl(240, 100%, 6%)",
+        secondary: "#66C5CC",
       },
     },
   },
